@@ -1,0 +1,2 @@
+1. The main difference between the results is because we calculate a continuous functions, but then transforming the results 
+we got back to a discrete form - so there is some information lost and hence the differences.

@@ -1,0 +1,2 @@
+3. Similar to q1, the differences is because we're calculating a discrete form of a contingues functions, and the 
+approximiations are not accurate enough, so when we transform the image back there's a slight difference.
