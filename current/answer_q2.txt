@@ -1,0 +1,2 @@
+2. If the gaussian kernel center wasn't at the center of the image (after shifting) in fourier space, the result would 
+be that we'd filter out the wrong fourier frequencies, and the effect won't apply

@@ -2,6 +2,7 @@ import os
 import numpy as np
 import current.sol2 as sol2
 
+
 def presubmit():
   print ('ex2 presubmission script')
   disclaimer="""
